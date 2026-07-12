@@ -32,3 +32,6 @@ bash
 <img width="1919" height="922" alt="Screenshot 2026-07-12 171717" src="https://github.com/user-attachments/assets/29529ef0-bbef-455b-8e58-d4d79ff79d63" />
 <img width="1919" height="611" alt="Screenshot 2026-07-12 171657" src="https://github.com/user-attachments/assets/f0656491-ecb3-41d5-b011-a2ce37f21c3b" />
 
+
+
+[ApexPlanet Software Pvt Task - 1 Report.pdf](https://github.com/user-attachments/files/29939282/ApexPlanet.Software.Pvt.Task.-.1.Report.pdf)
